@@ -1,0 +1,12 @@
+portfolio page:
+-bio
+-contact
+-resume
+-accomplishments
+
+case study:
+-intro: scenario & purpose, data, assumptions you're making
+-problem: what's the issue?
+-solutions: include pros and cons
+-conclusion: key take-aways
+-next steps: including who/when/how of steps
